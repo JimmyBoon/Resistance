@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-8960777401010959146
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e988677cbc5c44912beecb9224af802a, type: 3}
+  m_Name: 25cb6d8d-14de-43ea-a8ab-0d6196603f14
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 1
+  text: 
+  children: []
+  rect:
+    serializedVersion: 2
+    x: 302
+    y: 55
+    width: 200
+    height: 100
+--- !u!114 &-1678220664980040834
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e988677cbc5c44912beecb9224af802a, type: 3}
+  m_Name: 9d2f2afa-0b8e-44b5-9aff-37cfbdc85642
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  text: 
+  children:
+  - 25cb6d8d-14de-43ea-a8ab-0d6196603f14
+  - c947933d-f39a-4704-ba7c-af457d6ba7e5
+  rect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 200
+    height: 100
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e012ff550539349e886349200e38abb7, type: 3}
+  m_Name: New Dialogue 4
+  m_EditorClassIdentifier: 
+  nodes:
+  - {fileID: -1678220664980040834}
+  - {fileID: -8960777401010959146}
+  - {fileID: 477280777779555608}
+  newNodeOffset: {x: 200, y: 50}
+--- !u!114 &477280777779555608
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e988677cbc5c44912beecb9224af802a, type: 3}
+  m_Name: c947933d-f39a-4704-ba7c-af457d6ba7e5
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 1
+  text: 
+  children: []
+  rect:
+    serializedVersion: 2
+    x: 308
+    y: 177
+    width: 200
+    height: 100

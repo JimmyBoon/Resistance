@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: German Pistol RH
+  m_Controller: {fileID: 9100000, guid: 313363513fedf43eb832af6b9651b7a6, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 1315bcd7509173f44bc6655b2673dd4d, type: 3}
+    m_OverrideClip: {fileID: 7400000, guid: 5a1595ed82ec689419c4279b2645c92a, type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: c6fcae89c2e3c8a48a1c5b8f55958abe, type: 3}
+    m_OverrideClip: {fileID: 7400000, guid: 01e04c96cb395e84ca611bd1b10282ca, type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: 26f0fb4f7ac665546a43a8c74e2b99dd, type: 3}
+    m_OverrideClip: {fileID: 7400000, guid: 5a1595ed82ec689419c4279b2645c92a, type: 3}

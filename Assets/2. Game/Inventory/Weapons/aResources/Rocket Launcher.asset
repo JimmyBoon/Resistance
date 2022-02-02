@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9042803fc19d444a291db7d1014deb25, type: 3}
+  m_Name: Rocket Launcher
+  m_EditorClassIdentifier: 
+  itemID: 4a17afb5-ebf4-4ca6-87e9-59afcf87ad40
+  displayName: 
+  description: 
+  icon: {fileID: 0}
+  pickup: {fileID: 0}
+  stackable: 0
+  allowedEquipLocation: 5
+  animatorOverride: {fileID: 22100000, guid: 0a045b01259ab4e57956ae1693605ad0, type: 2}
+  eqippedPrefab: {fileID: 114503046559817888, guid: 94a4c4f7ec3ad4988a485fac42cac0e1,
+    type: 3}
+  weaponRange: 15
+  weaponDamage: 100
+  percentageBonus: 0
+  weaponNoise: 100
+  isRightHanded: 0
+  projectile: {fileID: 3881431930089025559, guid: e51db01f8b0634a13b0b892dc0e7ed55,
+    type: 3}

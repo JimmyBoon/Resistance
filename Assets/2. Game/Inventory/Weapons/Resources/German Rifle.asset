@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9042803fc19d444a291db7d1014deb25, type: 3}
+  m_Name: German Rifle
+  m_EditorClassIdentifier: 
+  itemID: 30f56f11-ad46-408f-81b7-560711100a93
+  displayName: German Rifle
+  description: 
+  icon: {fileID: 21300000, guid: c03c72978d15ecb4d91060d3a10d14f0, type: 3}
+  pickup: {fileID: 5281717155197908656, guid: 10b7481ff8af3484d8e0efb8ed52f263, type: 3}
+  stackable: 0
+  allowedEquipLocation: 5
+  animatorOverride: {fileID: 22100000, guid: 44bfd210fdceb4d59af7bcbbba34b758, type: 2}
+  eqippedPrefab: {fileID: 114356439382082366, guid: 6cbbc30a2deb143c0b4adbe6deca874c,
+    type: 3}
+  weaponShootRange: 20
+  weaponHitRange: 2
+  weaponShootingDamage: 50
+  weaponHittingDamage: 25
+  percentageBonus: 0
+  weaponNoise: 70
+  isRightHanded: 1
+  projectile: {fileID: 3284775458440553869, guid: 3a66eecb6ab9c40bcaede021aecf6cb2,
+    type: 3}
+  isHittingWeapon: 1
+  noiseType: 0
+  weaponClass: 4

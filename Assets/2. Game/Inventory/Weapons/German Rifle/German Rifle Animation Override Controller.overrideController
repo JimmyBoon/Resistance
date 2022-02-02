@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: German Rifle Animation Override Controller
+  m_Controller: {fileID: 9100000, guid: 313363513fedf43eb832af6b9651b7a6, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: b3b55707c080031498b4a73507227e0c, type: 3}
+    m_OverrideClip: {fileID: 7400000, guid: bde69300383b21046b12a1e14edf08de, type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: 1315bcd7509173f44bc6655b2673dd4d, type: 3}
+    m_OverrideClip: {fileID: 7400000, guid: fed7d37e740f01947894117fcbd2a15f, type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: 9a26352c93a81e947b73b8e47cc931bb, type: 3}
+    m_OverrideClip: {fileID: 7400000, guid: 85f9e92f60334cd41bd11907b3963d28, type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: 1cb8ed3cbba15f0479fbae54e0a963df, type: 3}
+    m_OverrideClip: {fileID: 7400000, guid: c742cf69d64182b48ae5e5a63172a343, type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: c6fcae89c2e3c8a48a1c5b8f55958abe, type: 3}
+    m_OverrideClip: {fileID: 7400000, guid: 14633caf39edea042b950d0b78def88c, type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: 62196ab8b670de146b6be9041f3bd30a, type: 3}
+    m_OverrideClip: {fileID: 7400000, guid: 90a2618e436ae8243a84b5af1a2b06d0, type: 3}
